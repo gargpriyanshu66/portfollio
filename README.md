@@ -13,7 +13,7 @@ The portfolio website showcases Siddharth Shekhar's qualifications, certificatio
 - **Images:** Images used in the website are from [Unsplash](https://unsplash.com/).
 
 ## Preview
-https://github.com/gargpriyanshu66/portfolio.git
+https://github.com/gargpriyanshu66/portfollio.git
 
 
 ## Setup
@@ -22,7 +22,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gargpriyanshu66/portfolio.git
+   git clone https://github.com/gargpriyanshu66/portfollio.git
 
 ## Features
 
