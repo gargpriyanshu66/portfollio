@@ -1,10 +1,10 @@
-# Siddharth Shekhar Portfolio
+# Portfolio Design
 
 This repository contains the source code for Siddharth Shekhar's personal portfolio website, built using HTML and CSS.
 
 ## Overview
 
-The portfolio website showcases Siddharth Shekhar's qualifications, certifications, and provides a way to contact him. It includes sections for displaying his education background, certifications, and a contact form.
+The portfolio website showcases yours's qualifications, certifications, and provides a way to contact him. It includes sections for displaying his education background, certifications, and a contact form.
 
 ## Acknowledgements
 
